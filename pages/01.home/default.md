@@ -6,7 +6,7 @@ title: Accueil
 
 ## Ce que vous trouverez sur ce site
 
-blablabla
+Tous les cours, des exercices, des vidéos, de idées de lectures, des conseils...Bonne visite.
 
 ## Ce que vous ne trouverez pas sur ce site
 
