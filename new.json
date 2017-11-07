@@ -9,7 +9,8 @@
 			"grade": 14,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "BRAVO !! c'est en énorme progrès !\n\nLe cours a été revu sérieusement il y a beaucoup d'efforts."
+			"good_copie": "BRAVO !! c'est en énorme progrès !\n\nLe cours a été revu sérieusement il y a beaucoup d'efforts.\ndocument presque tout compris\nParagraphe : c'est bien il y a des connaissances.",
+			"bad_copie": "partie 1"
 		},
 		{
 			"name": "Suzon",
