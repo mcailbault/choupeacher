@@ -5,6 +5,8 @@
 	"id": "islam",
 	"eleve": [
 		{
+			"name": "Suzon",
+			"grade": 13,
 			"alerte_cours": false,
 			"alerte_comportement": false
 		},
