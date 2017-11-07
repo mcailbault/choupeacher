@@ -9,7 +9,9 @@
 			"grade": 5,
 			"alerte_cours": true,
 			"alerte_comportement": false,
-			"bad_copie": "Que se passe t-il ? J'ai l'impression que tu te sens mal en classe, tu participes moins que l'année dernière. \nLe cours n'est pas revu. \n\nLa correction est sur elyco."
+			"bad_copie": "Que se passe t-il ? J'ai l'impression que tu te sens mal en classe, tu participes moins que l'année dernière. \nLe cours n'est pas revu. \n\nLa nature d'un document, c'est dire si c'est une image, une vidéo, un texte.\n\nLa correction est sur elyco.",
+			"good_class": "travail assez sérieux.",
+			"bad_class": "mets toi plus vite au travail en classe."
 		},
 		{
 			"name": "Mathilde",
