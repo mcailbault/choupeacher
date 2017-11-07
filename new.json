@@ -5,12 +5,18 @@
 	"id": "islam",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Sefora",
 			"grade": 12.5,
 			"alerte_cours": false,
 			"alerte_comportement": false,
 			"good_copie": "assez bon travail ! C'est en progrès ! \nle cours est revu sérieusement.\nDocument à peu près compris\nbon paragraphe ! ",
-			"bad_copie": "partie 1 il reste quelques détails à connaître ( Hégire, la bataille question 7 )\n\nPartie 2 question 4 : cela montre qu'avant l'islam, l'Arabie était polythéiste.\n\nPartie 3 : "
+			"bad_copie": "partie 1 il reste quelques détails à connaître ( Hégire, la bataille question 7 )\n\nPartie 2 question 4 : cela montre qu'avant l'islam, l'Arabie était polythéiste.\n\nPartie 3 : il manque quelques mots clés ( monothéiste, bataille de Yarmouk, Sunnites chiites, Fatimides...)\n\ncorrection sur elyco",
+			"good_class": "très bonne participation et travail très sérieux",
+			"bad_class": "continue ! "
 		},
 		{
 			"name": "Dylan",
