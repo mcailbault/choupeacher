@@ -5,6 +5,7 @@
 	"id": "islam",
 	"eleve": [
 		{
+			"name": "Eda",
 			"alerte_cours": false,
 			"alerte_comportement": false
 		},
