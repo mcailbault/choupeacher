@@ -9,7 +9,8 @@
 			"grade": 10,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "C'est en progrès. Evaluation faite avec le cahier. "
+			"good_copie": "C'est en progrès. Evaluation faite avec le cahier. ",
+			"bad_copie": "les cours doivent être revus"
 		},
 		{
 			"name": "Emilie",
