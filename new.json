@@ -7,8 +7,9 @@
 		{
 			"name": "Allan",
 			"grade": 5,
-			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "Que se passe t-il ? J'ai l'impression que tu te sens mal en classe, tu participes moins que l'année dernière. "
 		},
 		{
 			"name": "Mathilde",
