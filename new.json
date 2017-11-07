@@ -5,6 +5,10 @@
 	"id": "islam",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Antoine",
 			"grade": 14.5,
 			"alerte_cours": false,
