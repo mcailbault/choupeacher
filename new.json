@@ -9,7 +9,8 @@
 			"grade": 3,
 			"alerte_cours": true,
 			"alerte_comportement": true,
-			"bad_copie": "cours non revu, il y a urgence.\nTu es ici pour avoir le droit de choisir toi même ce que tu veux faire en fin de 3e. Si les résultats ne s'améliorent pas, l'école décidera à ta place.\n\nLa correction est sur elyco."
+			"bad_copie": "cours non revu, il y a urgence.\nTu es ici pour avoir le droit de choisir toi même ce que tu veux faire en fin de 3e. Si les résultats ne s'améliorent pas, l'école décidera à ta place.\n\nLa correction est sur elyco.",
+			"bad_class": "cesse les bavardages et les remarques hors sujet"
 		},
 		{
 			"name": "Baptiste",
