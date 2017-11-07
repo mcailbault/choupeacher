@@ -8,7 +8,8 @@
 			"name": "Mauren",
 			"grade": 7.5,
 			"alerte_cours": true,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"bad_copie": "le cours n'est pas revu assez sérieusement.\n\nPartie 1.\nQuestion 5 les successeurs de Mahomet sont les califes.\nQuestion 6 Fatimides en Egypte par exemple.\nQuestion 7 il faut donner beaucoup plus de détails.\n\nPartie 3 : Technique non maîtrisée encore. Tu oublies les lieux les dates les noms, tu mélanges beaucoup. \n\nCorrection sur elyco"
 		},
 		{
 			"name": "Léna",
