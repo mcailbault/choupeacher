@@ -5,8 +5,11 @@
 	"id": "islam",
 	"eleve": [
 		{
+			"name": "Dylan",
+			"grade": 10,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "C'est en progrès. Evaluation faite avec le cahier. "
 		},
 		{
 			"name": "Emilie",
