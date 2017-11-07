@@ -6,7 +6,7 @@
 	"eleve": [
 		{
 			"name": "Léa",
-			"grade": 8.5,
+			"grade": 9,
 			"alerte_cours": false,
 			"alerte_comportement": false,
 			"good_copie": "C'est en progrès ! Le cours a été revu et tes phrases sont plus claires. \n\nLe document est bien compris. \n",
