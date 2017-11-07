@@ -9,7 +9,8 @@
 			"grade": 17.5,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "très bon travail bravo, cours compris et bien revu"
+			"good_copie": "très bon travail bravo, cours compris et bien revu, paragraphe très clair",
+			"bad_copie": "paragraphe : "
 		},
 		{
 			"name": "Antoine",
