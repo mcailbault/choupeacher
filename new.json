@@ -10,7 +10,9 @@
 			"alerte_cours": false,
 			"alerte_comportement": false,
 			"good_copie": "très bon travail bravo, cours compris et bien revu, paragraphe très clair",
-			"bad_copie": "paragraphe : il manque le terme clé Hégire, il faudrait expliquer "
+			"bad_copie": "paragraphe : il manque le terme clé Hégire. Tu pourrais développer sur les Fatimides et les Almohades, sur la mosquée de Damas.\n\ncorrection sur elyco",
+			"good_class": "excellente participation travail très sérieux",
+			"bad_class": "continue ! "
 		},
 		{
 			"name": "Antoine",
