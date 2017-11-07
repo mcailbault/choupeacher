@@ -6,6 +6,7 @@
 	"eleve": [
 		{
 			"name": "Eda",
+			"grade": 14,
 			"alerte_cours": false,
 			"alerte_comportement": false
 		},
