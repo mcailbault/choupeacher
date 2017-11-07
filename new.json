@@ -5,8 +5,11 @@
 	"id": "islam",
 	"eleve": [
 		{
-			"alerte_cours": false,
-			"alerte_comportement": false
+			"name": "Nathan",
+			"grade": 5,
+			"alerte_cours": true,
+			"alerte_comportement": false,
+			"bad_copie": "cours non revu, il y a urgence.\n\n\nLa correction est sur elyco."
 		},
 		{
 			"name": "Hamza",
