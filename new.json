@@ -5,10 +5,17 @@
 	"id": "islam",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Flavie",
 			"grade": 18,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "bravo très bon travail ! cours compris et bien revu !",
+			"bad_copie": "correction sur elyco pour quelques détails.",
+			"good_class": "excellente participation travail très sérieux ! "
 		},
 		{
 			"name": "Emma",
