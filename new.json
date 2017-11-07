@@ -5,11 +5,17 @@
 	"id": "islam",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Lucie",
 			"grade": 4.5,
 			"alerte_cours": true,
 			"alerte_comportement": false,
-			"bad_copie": "que se passe t-il ? Tes résultats chutent. Le cours n'est pas revu. \n\nle paragraphe : la technique n'est pas encore maîrisée, il manque des dates, des noms, des lieux.\n\nLa correction est sur elyco regarde la bien pour comprendre ce que j'attendais."
+			"bad_copie": "que se passe t-il ? Tes résultats chutent. Le cours n'est pas revu. \n\nle paragraphe : la technique n'est pas encore maîrisée, il manque des dates, des noms, des lieux.\n\nLa correction est sur elyco regarde la bien pour comprendre ce que j'attendais.",
+			"good_class": "ton travail est plutôt sérieux en classe.",
+			"bad_class": "participe encore plus et surtout ne te décourage pas, tu es capable de réussir ! "
 		},
 		{
 			"name": "Romain",
