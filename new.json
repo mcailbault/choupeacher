@@ -9,7 +9,7 @@
 			"grade": 7,
 			"alerte_cours": true,
 			"alerte_comportement": false,
-			"bad_copie": "Le cours n'est pas revu assez sérieusement. "
+			"bad_copie": "Le cours n'est pas revu assez sérieusement. \nPartie 1 :"
 		},
 		{
 			"name": "Allan",
