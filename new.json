@@ -10,7 +10,9 @@
 			"alerte_cours": false,
 			"alerte_comportement": false,
 			"good_copie": "Bon travail ! \n\nMalgré l'ambiance de classe lors du devoir, tu as fait de ton mieux. Le cours est revu sérieusement.",
-			"bad_copie": "quelques détails sur le cours ne sont pas compris. ( "
+			"bad_copie": "quelques détails sur le cours ne sont pas compris. ( calife pour la question ( par exemple )",
+			"good_class": "travail très sérieux très bonne participation",
+			"bad_class": "A toi de me dire si tu préfères quand tu me dictes ou si tu préfères écrire seul."
 		},
 		{
 			"name": "Eda",
