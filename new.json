@@ -5,13 +5,17 @@
 	"id": "islam",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Hamza",
 			"grade": 6,
 			"alerte_cours": true,
 			"alerte_comportement": true,
 			"bad_copie": "cours non revu, il y a urgence à travailler plus sérieusement. \n\nPartie document : comprendre un texte est difficile. Il faut te concentrer davantage.\n\nLa correction est sur elyco.",
 			"good_class": "parfois bonne participation et des efforts",
-			"bad_class": "Mais c'est"
+			"bad_class": "Mais beaucoup trop de remarques hors sujets et de bavardages. "
 		},
 		{
 			"name": "Lucie",
