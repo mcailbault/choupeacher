@@ -5,13 +5,17 @@
 	"id": "islam",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Mauren",
 			"grade": 7.5,
 			"alerte_cours": true,
 			"alerte_comportement": false,
 			"bad_copie": "le cours n'est pas revu assez sérieusement. Tes résultats chutent.\n\nPartie 1.\nQuestion 5 les successeurs de Mahomet sont les califes.\nQuestion 6 Fatimides en Egypte par exemple.\n\nPartie 3 : Si tu manques de temps, c'est parce que le cours n'est pas revu dans les détails donc tu passes trop de temps sur les deux premières parties à essayer de te souvenir.\n\nCorrection sur elyco",
 			"good_class": "bonne participation !",
-			"bad_class": "ne te décourage pas,"
+			"bad_class": "ne te décourage pas. \nPour progresser, tu peux faire une fiche résumée de toute la séquences avant une évaluation et me la montrer."
 		},
 		{
 			"name": "Léna",
