@@ -9,7 +9,7 @@
 			"grade": 5,
 			"alerte_cours": true,
 			"alerte_comportement": false,
-			"bad_copie": "Que se passe t-il ? J'ai l'impression que tu te sens mal en classe, tu participes moins que l'année dernière. "
+			"bad_copie": "Que se passe t-il ? J'ai l'impression que tu te sens mal en classe, tu participes moins que l'année dernière. \nLe cours n'est pas revu. \n\nLa correction est sur elyco."
 		},
 		{
 			"name": "Mathilde",
