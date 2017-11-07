@@ -10,7 +10,8 @@
 			"alerte_cours": false,
 			"alerte_comportement": false,
 			"good_copie": "C'est en progrès. Evaluation faite avec le cahier. ",
-			"bad_copie": "les cours doivent être revus un peu plus."
+			"bad_copie": "les cours doivent être revus un peu plus.",
+			"good_class": "parfois des tentatives pour participation, c'est bien et c'est encourageant"
 		},
 		{
 			"name": "Emilie",
