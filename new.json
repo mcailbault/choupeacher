@@ -9,7 +9,8 @@
 			"grade": 12.5,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "assez bon travail ! C'est en progrès ! \nle cours est revu sérieusement.\nDocument à peu près compris\nbon paragraphe ! "
+			"good_copie": "assez bon travail ! C'est en progrès ! \nle cours est revu sérieusement.\nDocument à peu près compris\nbon paragraphe ! ",
+			"bad_copie": "partie 1 il reste quelques détails à connaître ( Hégire"
 		},
 		{
 			"name": "Dylan",
