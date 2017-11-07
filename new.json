@@ -9,7 +9,8 @@
 			"grade": 9.5,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "C'est en progrès ! \nLe cours a été revu, le document est à peu près compris."
+			"good_copie": "C'est en progrès ! \nLe cours a été revu, le document est à peu près compris.",
+			"bad_copie": "tu m'avais dit que tu avais arrêté l'orthophoniste et que la dyslexie allait."
 		},
 		{
 			"name": "Elodie",
