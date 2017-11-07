@@ -8,7 +8,8 @@
 			"name": "Thomas",
 			"grade": 7,
 			"alerte_cours": true,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"bad_copie": "Le cours n'est pas revu assez sérieusement. "
 		},
 		{
 			"name": "Allan",
