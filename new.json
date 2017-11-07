@@ -5,11 +5,16 @@
 	"id": "islam",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Bilal",
 			"grade": 5.5,
 			"alerte_cours": true,
 			"alerte_comportement": false,
-			"bad_copie": "cours non revu, il  faut absolument revoir plus sérieusement les cours.\n\nPartie document : \nLa correction est sur elyco."
+			"bad_copie": "cours non revu, il  faut absolument revoir plus sérieusement les cours.\n\nPartie document : ne recopie pas le texte, explique le avec tes mots.\n\nLa correction est sur elyco.",
+			"good_class": "travail assez sérieux en classe et des efforts pour participer."
 		},
 		{
 			"name": "Nathan",
