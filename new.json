@@ -5,12 +5,18 @@
 	"id": "islam",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Sarah",
 			"grade": 9.5,
 			"alerte_cours": false,
 			"alerte_comportement": false,
 			"good_copie": "c'est encore un peu trop juste...\n\nDocument à peu près compris\n\nParagraphe : certaines choses sont comprises et les phrases sont claires.",
-			"bad_copie": "Partie 1.\nQuestion 5 les successeurs de Mahomet sont les califes.\nQuestion 7 il faut donner beaucoup plus de détails.\n\nPartie 3 : il manque des mots clés ( sunnites chiites monothéisme Hégire ) et plusieurs connaissances ( construction d'une mosquée par exemple ) \n\nCorrection sur elyco\n"
+			"bad_copie": "Partie 1.\nQuestion 5 les successeurs de Mahomet sont les califes.\nQuestion 7 il faut donner beaucoup plus de détails.\n\nPartie 3 : il manque des mots clés ( sunnites chiites monothéisme Hégire ) et plusieurs connaissances ( construction d'une mosquée par exemple ) \n\nCorrection sur elyco\n",
+			"good_class": "bonne participation et beaucoup d'efforts",
+			"bad_class": "ne te décourage pas tu peux progresser."
 		},
 		{
 			"name": "Léa",
