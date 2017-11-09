@@ -8,7 +8,8 @@
 			"name": "Zoé",
 			"grade": 15,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "excellent paragrape"
 		},
 		{
 			"name": "Blandine",
