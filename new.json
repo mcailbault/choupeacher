@@ -5,6 +5,10 @@
 	"id": "premire-guerre",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Lisa",
 			"grade": 1.57,
 			"alerte_cours": false,
