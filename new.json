@@ -5,6 +5,8 @@
 	"id": "premire-guerre",
 	"eleve": [
 		{
+			"name": "Aymeric",
+			"grade": 15.5,
 			"alerte_cours": false,
 			"alerte_comportement": false
 		},
