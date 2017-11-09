@@ -5,8 +5,11 @@
 	"id": "premire-guerre",
 	"eleve": [
 		{
+			"name": "MAnon J",
+			"grade": 16,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "bon travail ! document comprris"
 		},
 		{
 			"name": "Aymeric",
