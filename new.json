@@ -8,7 +8,8 @@
 			"name": "Aymeric",
 			"grade": 15.5,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "bon travail ! document compris"
 		},
 		{
 			"name": "Lucas M",
