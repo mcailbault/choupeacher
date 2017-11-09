@@ -5,11 +5,15 @@
 	"id": "premire-guerre",
 	"eleve": [
 		{
+			"alerte_cours": false,
+			"alerte_comportement": false
+		},
+		{
 			"name": "Edwige",
 			"grade": 15.5,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "bon travail. \nDocument compris",
+			"good_copie": "bon travail. \nDocument compris\n\nc'est le paragraphe qui pose souci.",
 			"bad_copie": "dommage pour les dates...\n\nPartie 3 : on te demande ce qui est nouveau ( guerre totale - Révolution Russe - travail des femmes - armes nouvelles comme le gaz moutarde - violence de masse - nouvelle Europe à la fin de la guerre avec la fin des Empires comme l'Empire ottoman remplacé par la Turquie. )\n\nCorrection sur elyco.",
 			"good_class": "travail très sérieux, bonne participation"
 		},
