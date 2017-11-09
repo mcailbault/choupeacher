@@ -9,7 +9,9 @@
 			"grade": 4.5,
 			"alerte_cours": true,
 			"alerte_comportement": false,
-			"bad_copie": "cours non revu. "
+			"bad_copie": "cours non revu, même les dates, qui avaient été toutes données. \nC'est dommage, tu es capable de réussir. ",
+			"good_class": "attitude sérieuse, cours noté.",
+			"bad_class": "participe au moins une fois par heure...allez.."
 		}
 	]
 }
