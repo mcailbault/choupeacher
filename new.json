@@ -6,8 +6,10 @@
 	"eleve": [
 		{
 			"name": "Faustine",
+			"grade": 15,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "bon travail ! document compris"
 		},
 		{
 			"name": "Edwige",
