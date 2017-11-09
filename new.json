@@ -6,7 +6,7 @@
 	"eleve": [
 		{
 			"name": "Léna",
-			"grade": 16,
+			"grade": 17,
 			"alerte_cours": false,
 			"alerte_comportement": false,
 			"good_copie": "bon travail ! "
