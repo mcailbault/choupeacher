@@ -5,6 +5,7 @@
 	"id": "premire-guerre",
 	"eleve": [
 		{
+			"name": "Anaïs R",
 			"alerte_cours": false,
 			"alerte_comportement": false
 		},
