@@ -5,8 +5,11 @@
 	"id": "premire-guerre",
 	"eleve": [
 		{
+			"name": "laetitia",
+			"grade": 18,
 			"alerte_cours": false,
-			"alerte_comportement": false
+			"alerte_comportement": false,
+			"good_copie": "excellent travail bravo !!!\ncours compris travail très sérieux"
 		},
 		{
 			"name": "Morgane",
