@@ -13,7 +13,7 @@
 			"grade": 4.5,
 			"alerte_cours": true,
 			"alerte_comportement": false,
-			"bad_copie": "cours non revu, même les dates, qui avaient été toutes données. \nC'est dommage, tu es capable de réussir. ",
+			"bad_copie": "cours non revu, même les dates, qui avaient été toutes données. \nC'est dommage, tu es capable de réussir. \n\nQuestion 3 : il ne faut jamais recopier le texte, mais expliquer avec tes mots puis citer une phrase pas plus. \n\nCorrection sur elyco.",
 			"good_class": "attitude sérieuse, cours noté.",
 			"bad_class": "participe au moins une fois par heure...allez.."
 		}
