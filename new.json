@@ -9,7 +9,8 @@
 			"grade": 1.57,
 			"alerte_cours": false,
 			"alerte_comportement": false,
-			"good_copie": "très bon travail ! bravo\ndocumnts compris le cours a été revu, paragraphe assez réussi"
+			"good_copie": "très bon travail ! bravo\ndocumnts compris le cours a été revu, paragraphe assez réussi",
+			"bad_copie": "Le pub du Mall accepte de nous recevoir vendredi 17/11 à 17h. "
 		},
 		{
 			"name": "Amélie",
